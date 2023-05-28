@@ -1,0 +1,80 @@
+body {
+    width: 1150px;
+    margin: 0 auto;
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+}
+
+h1 {           
+    font-size: 60px;    
+    line-height: 60px;
+    font-weight: 400;
+    width: 956px;
+    height: 120px;
+    margin-top: 128px;
+    margin-bottom: 40px;
+    letter-spacing: -0.03em;
+
+    color: #121212;
+} 
+
+.parent {
+     
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 400;
+    width: 430px;
+    height: 81px;
+    letter-spacing: -0.03em;
+    margin-left: 39px;
+    padding-top: 369px;
+
+    color:#ffffff;
+}
+
+.interier-body {
+    width: 1150px;
+    height: 500px;
+    background-image: url('../resources/interier-body.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+h2 {
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+    width: 51px;
+    height: 25px;
+    margin-top: 145px;
+    margin-bottom: 30px;
+    letter-spacing: -0.03em;
+    /* margin: 150px 138px 30px; */
+        
+    color: #121212;
+}
+
+.preconnect {
+    font-size: 45px;
+    line-height: 51px;
+    font-weight: 400;
+    height: 366px;
+    width: 1048px;
+    /* margin: 30px 141px 30px; */
+    letter-spacing: -0.03em;
+    color: #121212;
+} 
+
+a {
+    display: inline-block;
+    /* margin-top : 30px;
+    -left:138px;margin */
+    padding: 20px 40px;
+    border-radius: 5px;
+    margin-top: 30px;
+    text-decoration: none;
+    background-color: #ad1818;
+    color: #ffffff;
+
+
+}
