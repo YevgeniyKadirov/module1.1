@@ -6,9 +6,9 @@ body {
 }
 
 h1 {           
-    font-size: 60px;    
-    line-height: 60px;
+    font-size: 60px;
     font-weight: 400;
+    line-height: 60px;
     width: 956px;
     height: 120px;
     margin-top: 128px;
@@ -19,10 +19,9 @@ h1 {
 } 
 
 .parent {
-     
     font-size: 20px;
-    line-height: 27px;
     font-weight: 400;
+    line-height: 27p;
     width: 430px;
     height: 81px;
     letter-spacing: -0.03em;
@@ -42,8 +41,8 @@ h1 {
 
 h2 {
     font-size: 18px;
-    line-height: 25px;
     font-weight: 400;
+    line-height: 25px;
     width: 51px;
     height: 25px;
     margin-top: 145px;
@@ -56,8 +55,8 @@ h2 {
 
 .preconnect {
     font-size: 45px;
-    line-height: 51px;
     font-weight: 400;
+    line-height: 51px;
     height: 366px;
     width: 1048px;
     /* margin: 30px 141px 30px; */
