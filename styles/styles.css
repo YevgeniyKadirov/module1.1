@@ -9,11 +9,11 @@ h1 {
     font-size: 60px;
     font-weight: 400;
     line-height: 60px;
+    letter-spacing: -0.03em;
     width: 956px;
     height: 120px;
     margin-top: 128px;
     margin-bottom: 40px;
-    letter-spacing: -0.03em;
 
     color: #121212;
 } 
@@ -22,9 +22,9 @@ h1 {
     font-size: 20px;
     font-weight: 400;
     line-height: 27p;
+    letter-spacing: -0.03em;
     width: 430px;
     height: 81px;
-    letter-spacing: -0.03em;
     margin-left: 39px;
     padding-top: 369px;
 
@@ -43,11 +43,11 @@ h2 {
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
+    letter-spacing: -0.03em;
     width: 51px;
     height: 25px;
     margin-top: 145px;
     margin-bottom: 30px;
-    letter-spacing: -0.03em;
     /* margin: 150px 138px 30px; */
         
     color: #121212;
@@ -57,10 +57,10 @@ h2 {
     font-size: 45px;
     font-weight: 400;
     line-height: 51px;
-    height: 366px;
-    width: 1048px;
-    /* margin: 30px 141px 30px; */
     letter-spacing: -0.03em;
+    width: 1048px;
+    height: 366px;
+    /* margin: 30px 141px 30px; */
     color: #121212;
 } 
 
