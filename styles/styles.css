@@ -44,8 +44,8 @@ h1 {
 }
 
 h2 {
-    margin-top: 145px;
     margin-bottom: 30px;
+    margin-top: 145px;
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
@@ -53,8 +53,7 @@ h2 {
     width: 51px;
     height: 25px;
     /* margin: 150px 138px 30px; */
-        
-    color: #121212;
+     color: #121212;
 }
 
 .preconnect {
