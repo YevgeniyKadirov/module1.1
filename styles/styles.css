@@ -11,29 +11,27 @@ body {
     padding: 125px;
 }
 
-h1 {           
+h1 {
+    margin-bottom: 40px;
+    margin-top: 128px;
     font-size: 60px;
     font-weight: 400;
     line-height: 60px;
     letter-spacing: -0.03em;
     width: 956px;
     height: 120px;
-    margin-top: 128px;
-    margin-bottom: 40px;
-
     color: #121212;
 } 
 
 .parent {
+    padding-top: 369px;
+    margin-left: 39px;
     font-size: 20px;
     font-weight: 400;
     line-height: 27px;
     letter-spacing: -0.03em;
     width: 430px;
     height: 81px;
-    margin-left: 39px;
-    padding-top: 369px;
-
     color:#ffffff;
 }
 
@@ -46,14 +44,14 @@ h1 {
 }
 
 h2 {
+    margin-top: 145px;
+    margin-bottom: 30px;
     font-size: 18px;
     font-weight: 400;
     line-height: 25px;
     letter-spacing: -0.03em;
     width: 51px;
     height: 25px;
-    margin-top: 145px;
-    margin-bottom: 30px;
     /* margin: 150px 138px 30px; */
         
     color: #121212;
@@ -71,13 +69,13 @@ h2 {
 } 
 
 a {
+    margin-top: 30px;
     display: inline-block;
     /* margin-top : 30px;
     -left:138px;margin */
+    text-decoration: none;
     padding: 20px 40px;
     border-radius: 5px;
-    margin-top: 30px;
-    text-decoration: none;
     background-color: #ad1818;
     color: #ffffff;
 
