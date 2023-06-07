@@ -24,6 +24,14 @@ h1 {
     color: #121212;
 } 
 
+.interier-body {
+    width: 1150px;
+    height: 500px;
+    background-image: url('../resources/interier-body.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
 .parent {
     margin-left: 39px;
     padding-top: 369px;
@@ -34,14 +42,6 @@ h1 {
     width: 430px;
     height: 81px;
     color:#ffffff;
-}
-
-.interier-body {
-    width: 1150px;
-    height: 500px;
-    background-image: url('../resources/interier-body.jpg');
-    background-repeat: no-repeat;
-    background-size: contain;
 }
 
 h2 {
@@ -64,15 +64,12 @@ h2 {
     letter-spacing: -0.03em;
     width: 1048px;
     height: 366px;
-    /* margin: 30px 141px 30px; */
     color: #121212;
 } 
 
 a {
     margin-top: 30px;
     display: inline-block;
-    /* margin-top : 30px;
-    -left:138px;margin */
     text-decoration: none;
     padding: 20px 40px;
     border-radius: 5px;
