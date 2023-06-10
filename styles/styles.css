@@ -1,5 +1,6 @@
 body {
     font-family: 'Manrope', sans-serif;
+    font-weight: 400;
     font-style: normal;
     width: 100%;
 /*     background: #f5f5f5; */
@@ -29,9 +30,7 @@ body {
     width: 430px;
     height: 81px;
     font-size: 20px;
-    font-weight: 400;
     line-height: 27px;
-    text-align: left;
     letter-spacing: -0.03em;
     color:#ffffff;
     }
@@ -40,7 +39,6 @@ h1 {
     width: 956px;
     height: 120px;       
     font-size: 60px;
-    font-weight: 400;
     line-height: 60px;
     text-align: left;
     letter-spacing: -0.03em;
@@ -52,7 +50,6 @@ h2 {
     width: 51px;
     height: 25px;
     font-size: 18px;
-    font-weight: 400;
     line-height: 25px;
     letter-spacing: -0.03em;
     text-align: left;
@@ -64,7 +61,6 @@ h2 {
     width: 1048px;
     height: 366px;
     font-size: 45px;
-    font-weight: 400;
     line-height: 61px;
     letter-spacing: -0.03em;
     text-align: left;
