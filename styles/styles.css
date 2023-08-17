@@ -36,7 +36,7 @@ header {
 }
 
 .project {
-  margin-bottom: 90px;
+  margin-bottom: 89px;
 }
 
 .project__image {
@@ -96,10 +96,10 @@ header {
 
 .picturefullscreen__text {
   position: absolute;
-  bottom: 60px;
-  left: 125px;
+  bottom: 70px;
+  left: 119px;
   width: 443px;
-  font-size: 30px;
+  font-size: 31px;
   letter-spacing: -0.03em;
   color: #FFF;
 }
@@ -287,7 +287,7 @@ h3 {
 }
 
 footer {
-  padding-top: 60px;
+  padding-top: 53px;
   padding-bottom: 30px;
   background: var(--text, #121212);
 }
