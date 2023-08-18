@@ -93,13 +93,12 @@ header {
   background-size: cover;
   background-position: 50%;
 }
-
 .picturefullscreen__text {
   position: absolute;
-  bottom: 70px;
-  left: 119px;
+  bottom: 74px;
+  left: 117px;
   width: 443px;
-  font-size: 31px;
+  font-size: 30px;
   letter-spacing: -0.03em;
   color: #FFF;
 }
@@ -143,16 +142,6 @@ header {
   border-bottom: 1px solid rgba(0, 0, 0, 0.5);
 }
 
-.picturefullscreen__text {
-  position: absolute;
-  bottom: 74px;
-  left: 117px;
-  width: 443px;
-  font-size: 30px;
-  letter-spacing: -0.03em;
-  color: #FFF;
-}
-
 .intro__background-image {
   position: relative;
   width: 1150px;
@@ -173,7 +162,7 @@ header {
   color:#ffffff;
 }
 
-h1,h2,h3 {
+h1,h2,h3, {
   letter-spacing: -0.03em;
   color: #121212;
 
