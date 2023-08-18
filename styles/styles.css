@@ -32,7 +32,7 @@ header {
 }
 
 .projects {
-  margin-bottom: 150px;
+  margin-bottom: 152px;
 }
 
 .project {
@@ -40,7 +40,7 @@ header {
 }
 
 .project__image {
-  margin-bottom: 15px;
+  margin-bottom: 13px;
     
 }
 
@@ -105,8 +105,8 @@ header {
 }
 
 .contacts {
- margin-top: 150px;
- margin-bottom: 150px;
+ margin-top: 149px;
+ margin-bottom: 127px;
 }
 
 
@@ -180,13 +180,13 @@ h1,h2,h3 {
 }
 
 h1 {
-  margin-bottom: 30px;
+  margin-bottom: 27px;
   font-size: 60px;
   line-height: 60px;
 } 
 
 h2 {
-  margin-bottom: 30px;
+  margin-bottom: 32px;
   font-size: 18px;
   line-height: 25px;
   text-transform:uppercase;
@@ -238,7 +238,7 @@ h3 {
   text-decoration: none;
   text-align: center;
   color: #AD1818;
-  font-size: 30px;
+  font-size: 28px;
   letter-spacing: -0.03px;
     
 }
