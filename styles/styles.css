@@ -32,11 +32,11 @@ header {
 }
 
 .projects {
-  margin-bottom: 152px;
+  margin-bottom: 150px;
 }
 
 .project {
-  margin-bottom: 89px;
+  margin-bottom: 88px;
 }
 
 .project__image {
@@ -105,8 +105,8 @@ header {
 }
 
 .contacts {
- margin-top: 149px;
- margin-bottom: 127px;
+ margin-top: 150px;
+ margin-bottom: 124px;
 }
 
 
@@ -145,8 +145,8 @@ header {
 
 .picturefullscreen__text {
   position: absolute;
-  bottom: 60px;
-  left: 125px;
+  bottom: 74px;
+  left: 117px;
   width: 443px;
   font-size: 30px;
   letter-spacing: -0.03em;
