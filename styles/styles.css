@@ -275,7 +275,7 @@ footer {
 }
 
 .footer__nav:hover {
-  opacity: 0.7;
+  opacity: 0.5;
   color:#FFF
 }
 
@@ -290,10 +290,6 @@ footer {
   color: #FFF;
 }
 
-.footer__text:hover {
-  opacity: 0.5;
-  color:#FFF
-}
 
 
 
