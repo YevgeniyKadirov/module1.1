@@ -82,7 +82,7 @@ header {
   margin-bottom: 15px;
 }
 
-.picturefullscreen {
+.pictureFullscreen {
   position: relative;
   height:717px;
   background-image: url('../resources/bed-wide.png');
@@ -91,7 +91,7 @@ header {
   background-position: 50%;
 }
 
-.picturefullscreen__text {
+.pictureFullscreen__text {
   position: absolute;
   bottom: 74px;
   width: 443px;
@@ -207,7 +207,7 @@ h3 {
   color: #ad1818;
 }
 
-.fullwidthbtn {
+.fullWidthbtn {
   display: block;
   width: 1150px;
   font-size: 28px;
@@ -220,7 +220,7 @@ h3 {
   color: #AD1818;    
 }
 
-.fullwidthbtn:hover {
+.fullWidthbtn:hover {
   background-color: #AD1818;
   color: #ffffff;
 }
