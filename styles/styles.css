@@ -264,6 +264,11 @@ footer {
   background: var(--text, #121212);
 }
 
+.footer__nav {
+  width: 460px;
+  margin: avto;
+}
+
 .footer__nav a {
   margin-left: 53px;
   font-size: 18px;
@@ -283,6 +288,7 @@ footer {
 }
 
 .footer__text {
+  margin-top: 87px;
   font-size: 20px;
   line-height: 20px;
   text-align: center;
