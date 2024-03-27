@@ -258,14 +258,13 @@ h3 {
   background-position: 50%;
 }
 
-.footer {
+footer {
   padding-top: 53px;
   padding-bottom: 30px;
   background: var(--text, #121212);
 }
 
 .footer__nav a {
-  margin-bottom: 87px;
   margin-left: 53px;
   font-size: 18px;
   line-height: 38px;
